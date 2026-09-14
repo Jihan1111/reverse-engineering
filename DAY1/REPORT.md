@@ -9,7 +9,7 @@
 ![원본](files/red_FF0000(OG).bmp)
 
 * 라이브러리 준비
-![다운로드 링크](../.github/assets/HxD%20-%20Freeware%20Hex%20Editor%20and%20Disk%20Editor%20-%20mh-nexus.url)
+* [다운로드 링크](../.github/assets/HxD%20-%20Freeware%20Hex%20Editor%20and%20Disk%20Editor%20-%20mh-nexus.url)
 
 
 ----------------------------------------
