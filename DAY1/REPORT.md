@@ -89,4 +89,4 @@
 
 ![결과](files/red_FF0000.bmp)  
 
-![무지개 코드](rainbow.txt)
+[무지개 코드](rainbow.txt)
