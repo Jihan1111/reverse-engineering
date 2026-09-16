@@ -87,5 +87,6 @@
    (크기가 작으니 이미지를 클릭해 주세요)
 
 
-![결과](files/red_FF0000.bmp)
+![결과](files/red_FF0000.bmp)  
+
 ![무지개 코드](rainbow.txt)
