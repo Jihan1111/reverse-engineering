@@ -3,14 +3,14 @@
 int main(){
     int a=0;
 
-    for (int i=1; i<=100; i++){
+    for (int i=0; i<=100; i++){
         a=a+i;
     }
     
     printf("%d",a);
     return 0;
 }
-
+//--------------------------------------------------
 
 eax, ebx
 
@@ -22,11 +22,11 @@ j 시리즈
 
 
 --------
-xor ebx, ebx
-cmp ebx, 100
-jae (line n)
-add eax,ebx
-jmp (line27)
+xor ebx, ebx   | 31 DB
+cmp ebx, 100   | 83 FB 64
+ja (line 30)  | 
+add eax,ebx    | 01 D8
+jmp (line 27)  | 
 
 ---------
 
