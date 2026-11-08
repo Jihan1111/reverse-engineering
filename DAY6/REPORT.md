@@ -3,7 +3,7 @@
 선생님께 .exe실행 파일을 전송받았습니다.  
 이 실행피일 이름은 **loop.exe**이고 레치스터(변수)EAX의 갋을 10진수와 16진수로 보여주는 윈도우 api알림창을 띄웁니다.
 
-<img src="./files/image/image.png" width="200" style="margin-left: 30px;border-radius: 12px;" />
+<img src="../DAY5/files/image/image.png" width="200" style="margin-left: 30px;border-radius: 12px;" />
 
 어셈블리 코드 내부에는 자율적으로 코드를 짤수 있는 (nop)영역이 있습니다.
 
